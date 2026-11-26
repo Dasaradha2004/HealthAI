@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+healthai.db
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+!.env.example
+backend/data/*.csv
+backend/models/*.joblib
+frontend/node_modules/
+frontend/dist/
